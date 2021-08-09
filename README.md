@@ -22,42 +22,41 @@
 	<a href="https://www.instagram.com/savio.renato/" target="_blank">
 		<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 	</a>
-	<a href="https://discord.gg/3We3reBt" target="_blank">
-		<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-	</a>
 	<a href="https://web.whatsapp.com/send?phone=5519998806550" target="_blank">
 		<img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 	</a>
- <a href="mailto:contato@saviorenato.com.br" target="_blank">
+	<a href="https://discord.gg/3We3reBt" target="_blank">
+		<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+	</a>
+ 	<a href="mailto:contato@saviorenato.com.br" target="_blank">
 		<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-<p align="center">
-  <img alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<img alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+	<img alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </p>
  
 <h3 align="center">Frameworks</h3>
 <p align="center">
-   <img alt="Laravel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-   <img alt="Codeigniter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
-   <img alt="Zend" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg">
-    <img alt="Yii" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-plain.svg">
-     <img alt="Wordpress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+   	<img alt="Laravel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+   	<img alt="Codeigniter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
+   	<img alt="Zend" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg">
+	<img alt="Yii" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-plain.svg">
+    <img alt="Wordpress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </p>
 
 <h3 align="center">Source Control</h3>
 <p align="center">
-      <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+	<img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </p>
 
 <h3 align="center">Servers</h3>
 <p align="center">
-      <img alt="Amazon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-   <img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
+	<img alt="Amazon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+	<img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
 </p>
 
 <h3 align="center">Servers</h3>
@@ -71,7 +70,7 @@
 	<img height="110" alt="Daredevil" src="https://cdn.iconscout.com/icon/premium/png-128-thumb/daredevil-2851238-2372717.png"/>
 	<img height="100" alt="Wolverine" src="https://cdn.iconscout.com/icon/premium/png-128-thumb/wolverine-13-520235.png"/>
 </p>
-   
+
   ##
  
 <p align="center">
