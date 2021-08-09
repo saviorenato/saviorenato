@@ -59,7 +59,7 @@
 	<img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
 </p>
 
-<h3 align="center">Servers</h3>
+<h3 align="center">Heroes</h3>
 <p align="center">
 	<img height="110" alt="Stan Lee" src="https://cdn.iconscout.com/icon/premium/png-128-thumb/stan-lee-2024352-1703606.png"/>
 	<img height="100" alt="Iron Man" src="https://cdn.iconscout.com/icon/premium/png-128-thumb/avatar-94-116460.png"/>
