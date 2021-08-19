@@ -51,13 +51,13 @@
    	<img alt="Codeigniter" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
    	<img alt="Zend" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg">
 	<img alt="Yii" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-plain.svg">
-    <img alt="Wordpress" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+   	<img alt="Wordpress" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </p>
 
 <h3 align="center">Source Control and Databases</h3>
 <p align="center">
 	<img alt="Git" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-	<img alt="GitHub" width="40" style="background-color: #ffffff!important;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+	<img alt="GitHub" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 	<img alt="GitLab" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 	<img alt="Mysql" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 	<img alt="PostgreSQL" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">	
@@ -70,7 +70,6 @@
 	<img alt="Amazon" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 	<img alt="Docker"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
 	<img alt="Redis" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-	
 </p>
 
 <h3 align="center">Heroes</h3>
