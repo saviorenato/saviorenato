@@ -42,6 +42,7 @@
 <h3 align="center">Programming Languages</h3>
 <p align="center">
 	<img alt="PHP" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+	<img alt="NodeJS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </p>
  
 <h3 align="center">Frameworks</h3>
@@ -53,15 +54,23 @@
     <img alt="Wordpress" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </p>
 
-<h3 align="center">Source Control</h3>
+<h3 align="center">Source Control and Databases</h3>
 <p align="center">
 	<img alt="Git" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+	<img alt="GitHub" width="40" style="background-color: #ffffff!important;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+	<img alt="GitLab" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+	<img alt="Mysql" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+	<img alt="PostgreSQL" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">	
+	<img alt="MongoDB" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 </p>
 
-<h3 align="center">Servers</h3>
+<h3 align="center">Others</h3>
 <p align="center">
+	<img alt="Redis" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg">
 	<img alt="Amazon" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 	<img alt="Docker"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
+	<img alt="Redis" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+	
 </p>
 
 <h3 align="center">Heroes</h3>
