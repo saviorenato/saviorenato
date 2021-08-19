@@ -6,7 +6,7 @@
 
 # Sávio Renato
 
-- I'm currently developing in PHP for back-end and front-end;
+- I'm currently developing in PHP for back-end;
 - Living in Valinhos - SP;
 - And always learning new things.
 
