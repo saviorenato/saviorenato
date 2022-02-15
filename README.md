@@ -28,8 +28,8 @@ Automate and facilitate processes and procedures, this is the focus.
 	<a href="https://www.linkedin.com/in/saviorenato/" target="_blank">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://www.instagram.com/savio.renato/" target="_blank">
-		<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+	<a href="https://medium.com/@saviorenato" target="_blank">
+		<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 	</a>
 	<a href="https://web.whatsapp.com/send?phone=5519998806550" target="_blank">
 		<img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
