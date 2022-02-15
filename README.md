@@ -28,8 +28,8 @@ Automate and facilitate processes and procedures, this is the focus.
 	<a href="https://www.linkedin.com/in/saviorenato/" target="_blank">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://medium.com/@saviorenato" target="_blank">
-		<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+	<a href="mailto:saviorenato@gmail.com" target="_blank">
+		<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	<a href="https://web.whatsapp.com/send?phone=5519998806550" target="_blank">
 		<img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -37,9 +37,9 @@ Automate and facilitate processes and procedures, this is the focus.
 	<a href="https://discord.gg/3We3reBt" target="_blank">
 		<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 	</a>
- 	<a href="mailto:contato@saviorenato.com.br" target="_blank">
-		<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
+	<a href="https://medium.com/@saviorenato" target="_blank">
+		<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+	</a> 	
 </p>
  
 <h3 align="center">Things I code with</h3>
