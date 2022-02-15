@@ -1,8 +1,17 @@
-# Hi there, I'm Sávio Renato
+# Hey, nice to see you  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 
-- I'm currently developing in PHP for back-end;
-- Living in Valinhos - SP;
-- And always learning new things.
+Welcome to my page!
+I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
+
+## About Me:
+I love to understand how things work and how to improve them. Working with development for the last 16 years.
+I started to code with PHP with 14 years old.
+Automate and facilitate processes and procedures, this is the focus.
+
+<ul>
+<li>🧐 Learning about: <strong>serverless architectures</strong>.</li>
+<li>💬 Ping me about: <strong>PHP, Laravel, Lumen, security, and cloud stuff</strong>.</li>
+</ul>
 
 <p align="center"><img alt="Counter" src="https://komarev.com/ghpvc/?username=saviorenato&color=green" /></p>
 
@@ -33,9 +42,10 @@
 	</a>
 </p>
  
-<h3 align="center">Frameworks</h3>
+<h3 align="center">Things I code with</h3>
 <p align="center">
-   	<img alt="Laravel" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+	<img alt="Laravel" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+	<img alt="Lumen" width="22" src="https://cdn.cdnlogo.com/logos/l/41/lumen.svg">
    	<img alt="Codeigniter" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
    	<img alt="Zend" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg">
 	<img alt="Yii" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-plain.svg">
