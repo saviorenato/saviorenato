@@ -8,7 +8,7 @@ I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 	I love to understand how things work and how to improve them. Working with development for the last 16 years.
 	I started to code with PHP with 14 years old.
 	Automate and facilitate processes and procedures, this is the focus.
-</td><td valign="middle" width="40%" style="display:block;border:0px">
+</td><td valign="middle" width="40%" style="text-align: center;display:block;border:0px">
 	<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40%">
 </td></tr></table>  
 
