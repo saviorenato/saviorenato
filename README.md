@@ -4,11 +4,11 @@ Welcome to my page!
 I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 
 ## About Me:
-<table style="border:none;"><tr><td valign="top" width="60%">
+<table><tr><td valign="middle" width="60%" style="display:block;border:0px">
 	I love to understand how things work and how to improve them. Working with development for the last 16 years.
 	I started to code with PHP with 14 years old.
 	Automate and facilitate processes and procedures, this is the focus.
-</td><td valign="top" width="40%">
+</td><td valign="middle" width="40%" style="display:block;border:0px">
 	<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40%">
 </td></tr></table>  
 
