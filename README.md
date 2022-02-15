@@ -11,6 +11,7 @@ Automate and facilitate processes and procedures, this is the focus.
 <ul>
 <li>🧐 Learning about: <strong>serverless architectures</strong>.</li>
 <li>💬 Ping me about: <strong>PHP, Laravel, Lumen, security, and cloud stuff</strong>.</li>
+<li>⚡ Fun fact: <strong>I love to play games</strong></li>
 </ul>
 
 <p align="center"><img alt="Counter" src="https://komarev.com/ghpvc/?username=saviorenato&color=green" /></p>
