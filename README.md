@@ -15,6 +15,11 @@ Automate and facilitate processes and procedures, this is the focus.
 
 <p align="center"><img alt="Counter" src="https://komarev.com/ghpvc/?username=saviorenato&color=green" /></p>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://spotify-now-playing-saviorenato.vercel.app/api/spotify)](https://open.spotify.com/user/5ltKWGZGG9trc9rwiHac9V)
+
+
 <h3 align="center">Statistics</h3>
 <p align="center">
   <a href="https://github.com/saviorenato">
