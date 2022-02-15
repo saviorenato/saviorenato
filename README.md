@@ -22,7 +22,7 @@ I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-now-playing-saviorenato.vercel.app/api/spotify)](https://open.spotify.com/user/5ltKWGZGG9trc9rwiHac9V)
+[![Spotify](https://spotify-now-playing-saviorenato.vercel.app/api/spotify)](https://open.spotify.com/user/31wsrp7lwweukoaebgvdurdbtviu)
 
 
 <h3 align="center">Statistics</h3>
