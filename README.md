@@ -4,14 +4,18 @@ Welcome to my page!
 I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 
 ## About Me:
-I love to understand how things work and how to improve them. Working with development for the last 16 years.
-I started to code with PHP with 14 years old.
-Automate and facilitate processes and procedures, this is the focus.
+<table><tr><td valign="top" width="50%">
+	I love to understand how things work and how to improve them. Working with development for the last 16 years.
+	I started to code with PHP with 14 years old.
+	Automate and facilitate processes and procedures, this is the focus.
+</td><td valign="top" width="50%">
+	<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70%">
+</td></tr></table>  
 
 <ul>
-<li>🧐 Learning about: <strong>serverless architectures</strong>.</li>
-<li>💬 Ping me about: <strong>PHP, Laravel, Lumen, security, and cloud stuff</strong>.</li>
-<li>⚡ Fun fact: <strong>I love to play games</strong></li>
+<li>🧐	Learning about: <strong>serverless architectures</strong>.</li>
+<li>💬	Ping me about: <strong>PHP, Laravel, Lumen, security, and cloud stuff</strong>.</li>
+<li>⚡	Fun fact: <strong>I love to play games</strong></li>
 </ul>
 
 <p align="center"><img alt="Counter" src="https://komarev.com/ghpvc/?username=saviorenato&color=green" /></p>
