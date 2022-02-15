@@ -32,11 +32,6 @@
 		<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-	<img alt="PHP" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-</p>
  
 <h3 align="center">Frameworks</h3>
 <p align="center">
