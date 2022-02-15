@@ -4,7 +4,7 @@ Welcome to my page!
 I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 
 ## About Me:
-<table style="border-collapse:collapse;"><tr><td valign="top" width="60%">
+<table style="border:none;"><tr><td valign="top" width="60%">
 	I love to understand how things work and how to improve them. Working with development for the last 16 years.
 	I started to code with PHP with 14 years old.
 	Automate and facilitate processes and procedures, this is the focus.
