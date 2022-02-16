@@ -4,11 +4,11 @@ Welcome to my page!
 I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 
 ## About Me:
-<table><tr><td valign="middle" width="60%" style="display:block;border:0px">
+<table><tr><td valign="middle" width="70%" style="display:block;border:0px">
 	I love to understand how things work and how to improve them. Working with development for the last 16 years.
 	I started to code with PHP with 14 years old.
 	Automate and facilitate processes and procedures, this is the focus.
-</td><td valign="middle" width="40%" align='center' style="display:block;border:0px">
+</td><td valign="middle" width="30%" align='center' style="display:block;border:0px">
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40%">
 </td></tr></table>  
 
@@ -19,11 +19,6 @@ I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 </ul>
 
 <p align="center"><img alt="Counter" src="https://komarev.com/ghpvc/?username=saviorenato&color=green" /></p>
-
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-now-playing-saviorenato.vercel.app/api/spotify)](https://open.spotify.com/user/31wsrp7lwweukoaebgvdurdbtviu)
-
 
 <h3 align="center">Statistics</h3>
 <p align="center">
