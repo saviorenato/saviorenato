@@ -1,16 +1,17 @@
-# Hey, nice to see you  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" />
+# Hey, nice to see you 👋
 
 Welcome to my page!
 I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 
 ## About Me:
-<table><tr><td valign="middle" width="70%" style="display:block;border:0px">
-	I love to understand how things work and how to improve them. Working with development for the last 16 years.
-	I started to code with PHP with 14 years old.
-	Automate and facilitate processes and procedures, this is the focus.
-</td><td valign="middle" width="30%" align='center' style="display:block;border:0px">
+<table>
+<tr><td valign="middle" width="70%" style="display:block;border:0px">
+	I love to understand how things work and how to improve them. Working with development since 2013.
+	Automate and facilitate processes and procedures, this is my focus.
+</td><td valign="middle" width="40%" align='center' style="display:block;border:0px">
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40%">
-</td></tr></table>  
+</td></tr>
+</table>  
 
 <ul>
 <li>🧐	Learning about: <strong>serverless architectures</strong>.</li>
@@ -22,9 +23,14 @@ I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 
 <h3 align="center">Statistics</h3>
 <p align="center">
-  <a href="https://github.com/saviorenato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saviorenato&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviorenato&layout=compact&langs_count=7&theme=nord"/>
+<a href="https://github.com/saviorenato">
+	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=saviorenato&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/saviorenato">
+  	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saviorenato&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviorenato&layout=compact&langs_count=7&theme=nord"/>
  </a>
 </p>
 
@@ -46,15 +52,20 @@ I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 		<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 	</a> 	
 </p>
+<p align="center">
+	<a href="https://www.buymeacoffee.com/savio.renato" target="_blank">
+		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+	</a>
+<p>
  
 <h3 align="center">Things I code with</h3>
 <p align="center">
-	<img alt="Laravel" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-	<img alt="Lumen" width="22" src="https://cdn.cdnlogo.com/logos/l/41/lumen.svg">
-   	<img alt="Codeigniter" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
-   	<img alt="Zend" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg">
-	<img alt="Yii" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-plain.svg">
-   	<img alt="Wordpress" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+	<img alt="Laravel" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+	<img alt="Lumen" height="50" src="https://cdn.cdnlogo.com/logos/l/41/lumen.svg">
+   	<img alt="Codeigniter" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
+   	<img alt="Zend" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg">
+	<img alt="Yii" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-plain.svg">
+   	<img alt="Wordpress" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </p>
 
 <h3 align="center">Heroes</h3>
