@@ -72,6 +72,8 @@ I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 <h4>Frameworks, Platforms and Libraries</h4>
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lumen&color=E74430&logo=Lumen&logoColor=FFFFFF&label=" alt="Lumen">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Composer&color=885630&logo=Composer&logoColor=FFFFFF&label=" alt="Composer">
 	<img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
 	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 	<img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="Rabbitmq">
