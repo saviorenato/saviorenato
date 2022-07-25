@@ -97,7 +97,6 @@ I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 
 <div align="center">
 <h4>Version Control</h4>
-	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
 	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">
 	<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab">
 </div>
