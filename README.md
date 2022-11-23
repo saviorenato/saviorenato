@@ -38,6 +38,10 @@ I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 	</a>
 </div>
 
+<div align="center">
+	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@de004781-4dce-4a98-9c54-43eecfdd9b11/fd4d3fba-7dff-4afb-b5b2-7ea140dfbeb7.png" /></a>
+</div>
+
 <h3 align="center">Contact me</h3>
 <div align="center">
 	<a href="https://www.linkedin.com/in/saviorenato/" target="_blank">
