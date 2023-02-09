@@ -25,10 +25,17 @@ I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 <div align="center"><img alt="Counter" src="https://komarev.com/ghpvc/?username=saviorenato&color=green" /></div>
 
 <h3 align="center">Statistics</h3>
+
 <div align="center">
 	<a href="https://github.com/saviorenato">
 		<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=saviorenato&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 	</a>
+</div>
+
+<div align="center">
+
+[![SavioRenato Github](https://github-profile-trophy.vercel.app/?username=saviorenato&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <div align="center">
