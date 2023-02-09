@@ -22,7 +22,7 @@ I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 	<li>⚡	Fun fact: <strong>I love to play games</strong></li>
 </ul>
 
-<div align="center"><img alt="Counter" src="https://komarev.com/ghpvc/?username=saviorenato&color=green" /></div>
+<div align="center"><img alt="Counter" src="https://komarev.com/ghpvc/?username=saviorenato&color=green&style=for-the-badge" /></div>
 
 <h3 align="center">Statistics</h3>
 
@@ -34,7 +34,7 @@ I'm Sávio, a Husband, Father and Software Engineer PHP from São Paulo, Brazil
 
 <div align="center">
 
-[![SavioRenato Github](https://github-profile-trophy.vercel.app/?username=saviorenato&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub SavioRenato](https://github-profile-trophy.vercel.app/?username=saviorenato&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
