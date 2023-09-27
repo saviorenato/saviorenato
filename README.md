@@ -5,10 +5,21 @@
 
 <br/>
 
-- 👪 I'm a Father, Husband and Senior Software Engineer
-- 💻 Here's my personal [saviorenato.com.br](https://saviorenato.com.br)
-- 🇧🇷 I'm from [Valinhos - SP, Brasil](https://pt.wikipedia.org/wiki/Valinhos)
-- 💡 My main language are [PHP](https://php.net/) and in a adventure with [GO](https://go.dev/)
+<table>
+	<tr>
+		<td valign="middle" width="70%" style="display:block;border:0px">
+			<ul>
+				<li>👪 I'm a Father, Husband and Senior Software Engineer</li>
+				<li>💻 Here's my personal [saviorenato.com.br](https://saviorenato.com.br)</li>
+				<li>🇧🇷 I'm from [Valinhos - SP, Brasil](https://pt.wikipedia.org/wiki/Valinhos)</li>
+				<li>💡 My main language are [PHP](https://php.net/) and in a adventure with [GO](https://go.dev/)</li>
+			</ul>
+		</td>
+		<td valign="middle" width="40%" align='center' style="display:block;border:0px">
+			<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40%">
+		</td>
+	</tr>
+</table>
 
 <br/>
 
