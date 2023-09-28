@@ -7,7 +7,7 @@
 
 - 👪 I'm a Father, Husband and Senior Software Engineer
 - 💻 Here's my personal [saviorenato.com.br](https://saviorenato.com.br)
-- 🇧🇷 I'm from [Valinhos - SP, Brasil](https://pt.wikipedia.org/wiki/Valinhos)
+- 🇧🇷 I'm from [Valinhos - SP, Brazil](https://pt.wikipedia.org/wiki/Valinhos)
 - 💡 My main language are [PHP](https://php.net/) and in a adventure with [GO](https://go.dev/)
 
 <br/>
@@ -15,7 +15,7 @@
 ```php
 $savio = [
     // Basic Info
-    location => "Brasil",
+    location => "Brazil",
     timezone => "São Paulo, SP (GMT-3)",
     bio => "I love to understand how things work and how to improve them 👨‍💻 🕵️ "
 
