@@ -46,7 +46,7 @@ echo $savio;
 </div>-->
 
 <div align="center">
-	<h3 align="center">Wakatime</h3>
+	<!-- <h3 align="center">Wakatime</h3> -->
 	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@saviopereira/17ae1462-a3a2-46eb-a53f-52c7e36cb06c.png" /></a>
 	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@de004781-4dce-4a98-9c54-43eecfdd9b11/fd4d3fba-7dff-4afb-b5b2-7ea140dfbeb7.png" /></a>
 </div>
