@@ -6,7 +6,7 @@
 <br/>
 
 - 👪 I'm a Father, Husband and Senior Software Engineer
-- 💻 Here's my personal [saviorenato.com.br](https://saviorenato.com.br)
+- 💻 Here's my personal [linkedin.com/in/saviorenato/]([https://saviorenato.com.br](https://www.linkedin.com/in/saviorenato/))
 - 🇧🇷 I'm from [Valinhos - SP, Brazil](https://pt.wikipedia.org/wiki/Valinhos)
 - 💡 My main language are [PHP](https://php.net/) and in a adventure with [GO](https://go.dev/)
 
