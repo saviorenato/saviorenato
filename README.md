@@ -38,16 +38,16 @@ echo $savio;
 <!-- <div align="center">
 	[![GitHub SavioRenato](https://github-profile-trophy.vercel.app/?username=saviorenato&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div> -->
-
-<div align="center">
+<!-- <div align="center">
 	<a href="https://github.com/saviorenato">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saviorenato&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviorenato&layout=compact&langs_count=7&theme=nord"/>
 	</a>
-</div>
+</div>-->
 
 <div align="center">
 	<h3 align="center">Wakatime</h3>
+	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@saviopereira/17ae1462-a3a2-46eb-a53f-52c7e36cb06c.png" /></a>
 	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@de004781-4dce-4a98-9c54-43eecfdd9b11/fd4d3fba-7dff-4afb-b5b2-7ea140dfbeb7.png" /></a>
 </div>
 
