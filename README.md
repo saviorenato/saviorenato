@@ -15,14 +15,16 @@
 ```php
 $savio = [
     // Basic Info
-    location => "Brazil",
-    timezone => "São Paulo, SP (GMT-3)",
-    bio => "I love to understand how things work and how to improve them 👨‍💻 🕵️ "
+    "location" => "Brazil",
+    "timezone" => "São Paulo, SP (GMT-3)",
+    "bio" => "I love to understand how things work and how to improve them 👨‍💻 🕵️",
 
     // Coding
-    projects: [ "Digital Certificate", "PaymentHub", "Campino", "DarfBrasil" ],
-    favoriteLanguages: [ "PHP", "Go" ],
+    "projects" => [ "Digital Certificate", "PaymentHub", "Campino", "DarfBrasil" ],
+    "favoriteLanguages" => [ "PHP", "Go" ],
 ];
+
+echo $savio;
 ```
 
 <h3 align="center">Statistics</h3>
